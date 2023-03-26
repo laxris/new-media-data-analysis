@@ -1,0 +1,19 @@
+Cateogies given as Topic Name - Description:
+
+Business News - discusses corporations, deals, stock market, and anything that could be found in the "business" section of a newspaper or on Bloomberg TV
+Danger & Risk - discusses existential dangers or threats, is at least a little bit emotional or dramatic
+Demo - a concrete demonstration of how the tool the text is talking about works
+Futurism - conversations reminiscent of scifi, discussing sentience etc.
+General About - very superficial boilerplate information about the service, similar to the first section of Wikipedia
+How-To - a discussion of a specific application or purpose to which the tool can be used and a description of the steps to execute this plan or purpose
+Investment & Financial Advice - suggestions or advice about making money, investing money, predictions about which investments or businesses will be valuable in the near or distant future
+Limitations - discussions of technical or social limitations of the technology, tool, etc. that the text is talking about. A concrete, sober evaluation of how the tool cannot be used or where and how it fails
+Professional Applications - discussion of usage and applications for the tool in a specific professional environment or for a professional niche application or field
+Search Revolution - explicit mention of ChatGPT changing how people search for information on the internet and of ChatGPT as a threat to Google search or Google generally
+Socio-Economic Implications - discussion of larger, perhaps abstract social and economic changes at structural levels, high-level discussion of how important social structures or systems or economic structures or systems will change sometime in the mid-term future.
+Tech Explainer - science communication or science journalism that tries to explain the concert, high-level technical backend of a AI system, e.g., transformer models or LLMs, but formulation for a general population without a background in computer science or any ability to or interest in coding . 
+
+Task: Please evaluate how relevant each topic is on a scale of 0 (completely absent) to 5 (extremely relevant) for each of the topics.
+
+Text to categorize:
+
