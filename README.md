@@ -11,7 +11,7 @@ This repository contains a collection of tools for new media data analysis. The 
 These command line scripts read from input CSV/text files and produce output CSV files that can be loaded into Google Sheets or exported to Gephi for network analysis.
 
 ### Folder Structure
-
+```
 .
 ├── news-articles
 │ └── tra.py
@@ -20,7 +20,7 @@ These command line scripts read from input CSV/text files and produce output CSV
 │ └── vtt.txt\_to\_xls.ipynb
 ├── zeroshot-classification
 └─ zeroshot.pyi
-
+```
 
 ### Installation and Usage
 
@@ -40,4 +40,3 @@ Running each script without parameter will list the required inputs. The reposit
 ### License
 
 GPLv3 or newer.
-# new-media-data-analysis
